@@ -1,0 +1,17 @@
+tr :nth-child(1) {
+    background-color: #41dada;
+}
+
+tr :nth-child(2) {
+    background-color: #D6EEEE;
+}
+table, td, th {
+    border: 1px solid black;
+  }
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th {
+    height: 70px;
+  }
